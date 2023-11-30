@@ -1,4 +1,5 @@
-# Thuc-hanh-stack-queue
+THỰC HÀNH STACK, QUEUE:
+
 Đề bài
 Bài 1. Sử dụng ngăn xếp Viết chương trình đổi một số ở hệ thập phân sang hệ nhị phân vận dụng Stack.
 
